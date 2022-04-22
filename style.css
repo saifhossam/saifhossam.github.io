@@ -1,0 +1,84 @@
+body{
+margin: 0px;
+padding: 0px;
+background-image: url("design.jpg");
+background-repeat: no-repeat;
+height: 750px;
+font-family: 'Amiri', serif;
+}
+
+
+h1{
+font-size: 40px;
+color: #fff;
+text-shadow: 2px 5px 8px #46ea4c;
+text-align: right;
+position: absolute;
+right: 250px;
+top: 70px;
+}
+
+
+h2{
+font-size: 20px;
+color: #fff;
+text-align: right;
+position: absolute;
+right: 90px;
+top: 219px;
+}
+
+.p1{
+font-size: 16px;
+color: black;
+line-height: 39px;
+text-align: right;
+position: absolute;
+max-width: 480;
+right: 100px;
+top: 270px;
+}
+
+.p2{
+position: absolute;
+max-width: 480;
+left: 420px;
+top: 630px;
+}
+
+.p3{
+position: absolute;
+max-width: 480;
+left: 150px;
+top: 630px;
+}
+
+.links{
+position: absolute;
+right: 320px;
+top: 220px;
+}
+
+.img1{
+position: absolute;
+right: 107px;
+top: 75px;
+width: 3cm;
+height: 3cm;
+}
+
+.img2{
+position: absolute;
+left: 390px;
+top: 310px;
+width: 7cm;
+height: 9cm;
+}
+
+.img3{
+position: absolute;
+left: 100px;
+top: 330px;
+width: 7cm;
+height: 8cm;
+}
